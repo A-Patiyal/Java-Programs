@@ -6,4 +6,5 @@ Java programs topic wise
 2. Find `minimum` element from an array.
 3. Sort an array using for loop.
 4. Sort an array using builtin method.
+5. Sort an array in decending order.
 
